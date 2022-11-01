@@ -8,7 +8,7 @@
     gap: .2rem;
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 33.33% 33.33% 33.33%;
-    height: calc(100vh - 50px) ;
+    height: calc(100vh - 50px);
 }
 .destaques__titulo{
     background: rgba(0, 0, 0, .5);
@@ -39,7 +39,7 @@
 }
 .destaques__secundario:nth-child(5){
     background: url('/assets/img/cs-go.jpg') center / cover no-repeat;
-    grid-column: 3/4;
+    grid-column: 3/3;
     grid-row: 3/3;
 }
 .destaques__categorias{
